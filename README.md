@@ -1,5 +1,11 @@
 <h1 align=center>Health_Helper</h1>
 
+<div align=center><img src='/images/Health Helper.png' width=600></div>
+
+<br>
+
+## What is Health_Helper?
+
 Vscode plug-ins that remind programmers to behave healthily
 
 ## Features
