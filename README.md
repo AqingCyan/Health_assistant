@@ -1,5 +1,9 @@
 <h1 align=center>🌈Health_Helper</h1>
 
+<div align=center><a href='/zh.md'>中文文档</a> | <a href='#'>Plug-in download</a></div>
+
+<br>
+
 <div align=center><img src='/images/Health Helper.png' width=600></div>
 
 <br>
@@ -11,6 +15,7 @@ Vscode plug-ins that remind programmers to behave healthily
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+
 
 For example if there is an image subfolder under your extension project workspace:
 
