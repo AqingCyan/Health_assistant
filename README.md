@@ -4,7 +4,7 @@
 
 <br>
 
-<div align=center><img src='/images/Health Helper.png' width=600></div>
+<div align=center><img src='/images/cover.png' width=600></div>
 
 <br>
 
